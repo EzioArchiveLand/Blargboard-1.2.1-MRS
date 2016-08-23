@@ -89,7 +89,7 @@ To update from Blargboard 1.2, just drag and drop the new files into your instal
  * Flexible permission system
  * Plugin system
  * Templates (in the works, about 80% done)
- * URL rewriting, enables human-readable forum and thread URLs for public content (requires code editing to enable it as of now)
+ * URL rewriting, enables human-readable forum and thread URLs for public content
  * Post layouts
  * more Acmlmboard feel
  * typical messageboard features
