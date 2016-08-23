@@ -169,7 +169,6 @@ YOU WILL NOT RECEIVE HELP IF YOU HAVEN'T READ THE INSTRUCTIONS WHEN INSTALLING Y
  * merge/split threads a la phpBB (albeit without the shitty interface)
  * support multiple password hashing methods? (for importing from other board softwares, or for those who feel SHA256 with per-user salt isn't enough) (kinda addressed via login plugins)
  * more TODO at Kuribo64 and RVLution
- 
  * low priority: change/remove file headers? most of the original files still say 'AcmlmBoard XD'
  * besides it'd be an opportunity to add a license like the GPL
  * Add more stuff
