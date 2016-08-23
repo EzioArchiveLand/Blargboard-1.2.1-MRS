@@ -173,6 +173,7 @@ YOU WILL NOT RECEIVE HELP IF YOU HAVEN'T READ THE INSTRUCTIONS WHEN INSTALLING Y
  * besides it'd be an opportunity to add a license like the GPL
  * Add more stuff
  * make blargboard 1.2.2
+
 -------------------------------------------------------------------------------
 
 Blargboard is provided as-is, with no guarantee that it'll be useful or even work. I'm not
