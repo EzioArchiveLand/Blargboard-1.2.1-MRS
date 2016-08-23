@@ -67,7 +67,7 @@ Depending on the versions, your update may involve running extra scripts to fix 
 
 Updating from Blargboard 1.0 isn't covered.
 
-To update from Blargboard 1.2, just drag and drop the new files into your install of blarg, exact files are listed here:
+##To update from Blargboard 1.2, just drag and drop the new files into your install of blarg, exact files are listed here:
  */index.php
  */install.php
  */lib/bbcode_callback.php
