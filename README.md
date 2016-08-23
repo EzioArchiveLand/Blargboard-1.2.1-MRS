@@ -68,20 +68,20 @@ Depending on the versions, your update may involve running extra scripts to fix 
 Updating from Blargboard 1.0 isn't covered.
 
 To update from Blargboard 1.2, just drag and drop the new files into your install of blarg, exact files are listed here:
-*/index.php
-*/install.php
-*/lib/bbcode_callback.php
-*/lib/bbcode_parser.php
-*/lib/common.php
-*/lib/syndromes.php
-*/lib/permstrings.php
-*/pages/register.php
-*/pages/404.php
-*/pages/newreply.php
-*/pages/newthread.php
-*/pages/nuke.php
-*/pages/reregs.php
-*/instameme (the whole folder. put in the root of your board)
+ */index.php
+ */install.php
+ */lib/bbcode_callback.php
+ */lib/bbcode_parser.php
+ */lib/common.php
+ */lib/syndromes.php
+ */lib/permstrings.php
+ */pages/register.php
+ */pages/404.php
+ */pages/newreply.php
+ */pages/newthread.php
+ */pages/nuke.php
+ */pages/reregs.php
+ */instameme (the whole folder. put in the root of your board)
 
 
 ## Features
@@ -102,6 +102,10 @@ To update from Blargboard 1.2, just drag and drop the new files into your instal
  * Comes with working postplusone plugin
  * URL rewriting enabled right out the box
  
+##Using [instameme] and [ugotbanned]
+to use instameme, put this in your post- [instameme]X[/instameme]. Replace X with a number from 1 to 3 to get a meme and a 404 meme.
+
+to use [ugotbanned], put this in your post- [ugotbanned][/ugotbanned]. the "you got banned by the ban hammer meme will be in its place.
 -------------------------------------------------------------------------------
 
 Coders and such, who like to hack new features in their software, may think that the use
